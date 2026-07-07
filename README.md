@@ -117,3 +117,36 @@ The AI Job Finder workflow accepted user preferences such as job role, skills, o
 The final project was a YouTube Video Summarizer, which accepted a YouTube video link, extracted the video's transcript, and used an AI model to generate a concise summary highlighting the main ideas and important points. This workflow demonstrated how AI can save time by converting lengthy video content into easy-to-read summaries.
 
 Overall, today's session strengthened my understanding of API integration, AI-powered content processing, workflow design, and the practical application of automation in everyday tasks. These projects further enhanced my confidence in building intelligent, user-focused automation solutions using n8n.
+# Day 11 – AI WhatsApp Chatbot Integration using n8n and Evolution API
+
+**Date:** 06-07-2026
+
+## Overview
+
+Today's training focused on building an **AI-powered WhatsApp Chatbot** by integrating **n8n** with **Evolution API**. The objective was to understand how incoming WhatsApp messages are received, processed by an AI Agent, and automatically sent back to users as intelligent responses.
+
+## What I Learned
+
+* Configured the **AI Agent** to receive dynamic user messages using JSON expressions.
+* Used `{{$json.message}}` to pass incoming WhatsApp messages to the AI model.
+* Tested the AI Agent and verified AI-generated responses within n8n.
+* Added and configured an **HTTP Request** node to send AI responses through the Evolution API.
+* Configured request headers, including `apikey` and `Content-Type`.
+* Created a JSON request body to send WhatsApp messages dynamically.
+* Explored JSON expressions and learned how data flows between workflow nodes.
+* Troubleshot expression errors by inspecting node outputs and identifying the correct JSON fields.
+* Understood the complete workflow from receiving a WhatsApp message to delivering an AI-generated reply.
+
+## Technologies Used
+
+* n8n
+* Evolution API
+* WhatsApp Integration
+* AI Agent
+* HTTP Request
+* JSON Expressions
+
+## Key Takeaways
+
+This session strengthened my understanding of AI chatbot development, API communication, dynamic data mapping, and workflow debugging in n8n. I gained practical experience in integrating WhatsApp with AI and learned how automation can be used to build intelligent conversational applications.
+
