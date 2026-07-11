@@ -149,4 +149,13 @@ Today's training focused on building an **AI-powered WhatsApp Chatbot** by integ
 ## Key Takeaways
 
 This session strengthened my understanding of AI chatbot development, API communication, dynamic data mapping, and workflow debugging in n8n. I gained practical experience in integrating WhatsApp with AI and learned how automation can be used to build intelligent conversational applications.
+# Day 12 – Antigravity & ElevenLabs
+
+**Date:** 7-07-2026
+
+Today, I worked with **Antigravity** and **ElevenLabs**. I learned how to create prompts for a multi-agent AI website and designed different e-commerce workflows, including shopping assistance, order tracking, customer support, and inventory management. I also explored how multiple AI agents work together to complete different tasks efficiently.
+
+In addition, I created a simple knowledge base for an ElevenLabs voice agent by adding company information, FAQs, shipping details, return policy, and payment methods. This helped me understand how a knowledge base improves the responses of an AI voice assistant.
+
+Today's session improved my skills in prompt engineering, multi-agent AI systems, e-commerce automation, and conversational AI development.
 
