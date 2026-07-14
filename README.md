@@ -158,4 +158,26 @@ Today, I worked with **Antigravity** and **ElevenLabs**. I learned how to create
 In addition, I created a simple knowledge base for an ElevenLabs voice agent by adding company information, FAQs, shipping details, return policy, and payment methods. This helped me understand how a knowledge base improves the responses of an AI voice assistant.
 
 Today's session improved my skills in prompt engineering, multi-agent AI systems, e-commerce automation, and conversational AI development.
+# Day 13 – Building a Customer Support AI Agent using ElevenLabs
+
+**Date:** 8-7-2026
+
+Today, I learned how to build a **Customer Support AI Agent** using **ElevenLabs Conversational AI**. The objective of this project was to understand how AI voice agents can automate customer support by answering common customer queries in a natural and professional manner. During this session, I explored the main features of ElevenLabs and successfully created my own conversational AI agent.
+
+### Work Completed
+
+* Created a new Customer Support AI Agent in ElevenLabs.
+* Selected a suitable AI voice for natural and realistic conversations.
+* Configured the agent with clear system instructions to define its role and responsibilities.
+* Trained the agent to answer frequently asked questions related to products, services, shipping, order status, returns, refunds, and basic troubleshooting.
+* Learned how well-written prompts improve the quality, accuracy, and consistency of AI responses.
+* Tested the agent with different customer support scenarios to evaluate its performance.
+* Refined the instructions to make the responses more polite, professional, and user-friendly.
+* Explored how conversational AI can provide instant support while reducing the workload of human customer service teams.
+* Understood the importance of maintaining a helpful, respectful, and solution-oriented communication style in customer interactions.
+* Gained practical experience in designing and testing AI-powered voice assistants for real-world business applications.
+
+### Learning Outcome
+
+This project helped me understand the complete process of creating a conversational AI agent using ElevenLabs. I learned how prompt design, voice selection, and testing contribute to building an effective customer support assistant. By the end of the session, I had successfully created and tested an AI agent capable of handling common customer queries in a clear and professional manner. This experience improved my understanding of conversational AI and demonstrated how voice-based AI assistants can enhance customer experience by providing fast, accurate, and reliable support.
 
