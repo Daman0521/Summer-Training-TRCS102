@@ -181,3 +181,63 @@ Today, I learned how to build a **Customer Support AI Agent** using **ElevenLabs
 
 This project helped me understand the complete process of creating a conversational AI agent using ElevenLabs. I learned how prompt design, voice selection, and testing contribute to building an effective customer support assistant. By the end of the session, I had successfully created and tested an AI agent capable of handling common customer queries in a clear and professional manner. This experience improved my understanding of conversational AI and demonstrated how voice-based AI assistants can enhance customer experience by providing fast, accurate, and reliable support.
 
+
+# Day 14 – Introduction to Voice Automation with ElevenLabs
+
+**Date:** 09-07-2026
+
+Today, I was introduced to **voice automation** using **ElevenLabs**, an AI-powered platform that enables developers to create realistic voice assistants and conversational AI applications. The session focused on understanding how voice technology can be integrated into automation workflows to enable natural, human-like interactions. I learned that ElevenLabs provides advanced text-to-speech and conversational AI capabilities, making it possible to build voice agents that can understand user requests and respond with high-quality, realistic speech.
+
+During the training, I explored the basic features of the ElevenLabs platform, including creating voice agents, configuring conversational settings, and managing knowledge bases. I also gained an understanding of how voice agents can be connected with external tools, APIs, and automation platforms such as n8n to perform tasks automatically. This demonstrated how voice automation can extend beyond simple conversations and become part of intelligent business workflows.
+
+The session also covered the practical applications of voice AI in industries such as customer support, appointment scheduling, virtual assistants, and business process automation. I understood the importance of designing clear conversation flows and ensuring that voice agents provide accurate and helpful responses to users.
+
+Overall, today's training provided a strong introduction to voice automation and highlighted the growing role of conversational AI in modern software development. It expanded my knowledge of AI-powered communication technologies and prepared me for building more advanced voice-enabled automation projects using ElevenLabs in the upcoming sessions.
+
+# Day 15 – Building an AI Bot Using ElevenLabs
+
+**Date:** 10-07-2026
+
+Today, I focused on building an **AI bot** using the **ElevenLabs** platform. The objective of the session was to understand how conversational AI agents are created, configured, and deployed to provide intelligent and natural interactions with users. Building on the concepts learned in the previous session, I explored the process of designing a voice-enabled AI assistant capable of understanding user queries and generating meaningful responses.
+
+During the practical session, I created an AI bot by configuring its behavior, defining conversation prompts, and setting up a knowledge base to improve the quality and relevance of its responses. I learned how the bot can be customized for different use cases, such as customer support, information assistance, appointment booking, and general query handling. I also explored various configuration options that influence the bot’s personality, response style, and conversational flow.
+
+In addition, I gained insight into how ElevenLabs integrates with external applications and automation platforms, allowing AI bots to perform actions beyond simple conversations. This demonstrated how voice agents can become part of larger automated systems capable of handling real-world business tasks efficiently.
+
+Overall, today's session strengthened my understanding of conversational AI and voice automation. By successfully creating an AI bot in ElevenLabs, I gained practical experience in designing intelligent voice assistants and learned how AI-powered chatbots can enhance user engagement, improve customer service, and automate communication processes across various industries.
+
+# Day 16 – Content Automation and Blog Generator Using n8n
+
+**Date:** 13-07-2026
+
+Today's training focused on building two practical automation workflows using **n8n**: a **Content Automation** workflow and an **AI Blog Generator**. The objective was to understand how artificial intelligence can simplify the content creation process by generating high-quality written content automatically based on user input.
+
+During the session, I designed workflows that accepted topics or prompts from users and used an AI model to generate structured, well-written blog articles. I learned how to create dynamic prompts, process user input, and organize AI-generated responses into a readable format. The workflow also demonstrated how AI can significantly reduce the time required to produce content while maintaining consistency and relevance.
+
+In addition to blog generation, I explored content automation techniques that can streamline repetitive writing tasks. By integrating AI with workflow automation, I understood how businesses and content creators can automatically generate articles, marketing content, and other written material with minimal manual effort. Throughout the practical implementation, I also improved my understanding of workflow design, prompt engineering, and data handling within n8n.
+
+Overall, today's session enhanced my knowledge of AI-powered content generation and demonstrated how automation platforms like n8n can be used to build efficient solutions for digital content creation.
+
+# Day 17 – AI Content Repurposing and AI Image Generator Using n8n
+
+**Date:** 14-07-2026
+
+Today's training introduced two advanced AI automation projects: an **AI Content Repurposing** workflow and an **AI Image Generator** built using **n8n**. These projects demonstrated how artificial intelligence can automate creative tasks and improve productivity for content creators and businesses.
+
+The AI Content Repurposing workflow was designed to transform a single piece of content into multiple formats suitable for different social media platforms. I learned how to create dynamic prompts based on user inputs such as topic, audience, tone, language, and platform. The workflow generated multiple caption variations and optimized the content for different audiences, highlighting the flexibility of AI-powered content automation.
+
+I also built an AI Image Generator workflow that converts text prompts into visual content using AI image generation services. During the implementation, I gained practical experience in integrating external APIs, handling image generation requests, and managing workflow outputs. This project demonstrated how AI can support both written and visual content creation within a single automated system.
+
+Overall, today's session strengthened my understanding of creative AI workflows, API integration, and prompt engineering. It showed how automation can simplify the process of producing engaging content across multiple formats while improving efficiency and consistency.
+
+# Day 18 – AI Scheduled Content Digest and AI Support Triage Agent
+
+**Date:** 15-07-2026
+
+Today's training focused on creating two intelligent automation workflows using **n8n**: an **AI Scheduled Content Digest** and an **AI Support Triage Agent**. These projects demonstrated how AI can automate information management and customer support processes in real-world business environments.
+
+The AI Scheduled Content Digest workflow was designed to automatically collect content from multiple sources at scheduled intervals, process the information using an AI model, and generate concise summaries. I learned how to use scheduling triggers to automate recurring tasks and deliver organized content without manual intervention. This workflow highlighted the importance of combining automation with AI to improve productivity and ensure timely information delivery.
+
+The second project involved building an AI Support Triage Agent. This workflow received customer support requests, analyzed the message content, determined the category and urgency of each request, and organized the tickets for further processing. I learned how AI can assist in classifying support queries, prioritizing requests, and reducing the workload of support teams by automating the initial screening process.
+
+Overall, today's session expanded my understanding of advanced AI automation by combining scheduling, intelligent content processing, and automated decision-making. These projects demonstrated practical applications of n8n in building scalable workflows that enhance operational efficiency and improve user experience across different business scenarios.
